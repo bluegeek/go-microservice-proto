@@ -1,4 +1,4 @@
-package consignment_service
+package main
 
 import (
 	"context"
